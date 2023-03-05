@@ -3,7 +3,6 @@
 Напишем программу Hello World на языке C#:
 ```csharp
 namespace Lab01;
-<img width="1157" alt="Screenshot 2023-03-05 at 22 28 59" src="https://user-images.githubusercontent.com/90460154/222983846-8b489d6a-058b-4a5e-a2da-f96d006bc293.png">
 internal static class Program
 {
     private static void Main()
@@ -43,14 +42,9 @@ internal static class Program
 ```
 ## Упражнение 3
 Отладка программы с помощью среды разработки Rider.
-
+<img width="1157" alt="Screenshot 2023-03-05 at 22 28 59" src="https://user-images.githubusercontent.com/90460154/222983846-8b489d6a-058b-4a5e-a2da-f96d006bc293.png">
 ## Упражнение 4
 Обработка исключений в программе.
-```csharp
-namespace Lab01;
-```
-## Упражнение 5
-Расчет площади треугольника по формуле Герона.
 ```csharp
 namespace Lab01;
 internal static class Program
@@ -78,7 +72,7 @@ internal static class Program
     }
 }
  ```
-## Упражнение 6
+## Упражнение 5
 Расчет площади треугольника по формуле Герона.
 ```csharp
 internal static class Program
